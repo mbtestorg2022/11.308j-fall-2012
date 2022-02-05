@@ -26,8 +26,45 @@ Grading
 
 Student work will be evaluated in four ways: class attendance and contribution to discussions; the weekly journal / blog; an abstract, presentation, and final paper, posted on website.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Attendance and Contribution to Discussions | 30% |
-| The Weekly Journal | 30% |
-| A Presentation and Final Paper | 40%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Attendance and Contribution to Discussions
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Weekly Journal
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A Presentation and Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
