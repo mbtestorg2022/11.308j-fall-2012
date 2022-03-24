@@ -124,7 +124,7 @@ McHarg, Ian. _Design with Nature_. Published for the American Museum of Natural,
 
 WMRT, Comprehensive Plan for Sanibel, Florida (1974).
 
-Juneja, Narendra, and Spirn. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Environmental Resources of the Toronto Central Waterfront_." (PDF - 27.2MB)](http://www.annewhistonspirn.com/pdf/Spirn-Toronto-1976.pdf) Wallace Mcharg Roberts & Todd, 1976.
+Juneja, Narendra, and Spirn. ["_Environmental Resources of the Toronto Central Waterfront_." (PDF - 27.2MB)](http://www.annewhistonspirn.com/pdf/Spirn-Toronto-1976.pdf) Wallace Mcharg Roberts & Todd, 1976.
 
 Lynch, Kevin. _Good City Form_. MIT Press, 1981. ISBN: 9780262120852.
 
@@ -146,7 +146,7 @@ Urban Nature and City Design: "The Power of Example"
 
 Philadelphia Water Department, [_Stormwater Management Guidance Manual_](http://www.pwdplanreview.org/manual-info/guidance-manual), Version 2.1 (2011)
 
-Spirn, Anne Whiston, and Daniel Marcucci. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Models of Success: Landscape Improvements and Community Development_." (PDF - 1.56MB)](http://web.mit.edu/spirn/www/newfront/book/pdf/model_success.pdf) The West Philadelphia Landscape Plan, 1991.
+Spirn, Anne Whiston, and Daniel Marcucci. ["_Models of Success: Landscape Improvements and Community Development_." (PDF - 1.56MB)](http://web.mit.edu/spirn/www/newfront/book/pdf/model_success.pdf) The West Philadelphia Landscape Plan, 1991.
 
 Schön, Donald. _The Reflective Practitioner: How Professionals Think in Action_. Basic Books, 1983.
 
@@ -192,19 +192,19 @@ Spirn, Anne Whiston. _Language of Landscape_. Yale University Press, 1998.
 
 ———. "Reclaiming Common Ground: Water, Neighborhoods, and Public Spaces." In _The American Planning Tradition: Culture and Policy_. Edited by Robert Fishman. Woodrow Wilson Center Press, 2000. ISBN: 9780943875965. \[Preview with [Google Books](http://books.google.com/books?id=2QBm_6sgCGUC&pg=PA297frontcover)\]
 
-Spirn, Anne Whiston, and Michele Pollio. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Vacant land: A Resource for Reshaping Urban Neighborhoods_." (PDF)](http://web.mit.edu/spirn/www/newfront/book/pdf/vacant_land.pdf) The West Philadelphia Landscape Plan, 1991.
+Spirn, Anne Whiston, and Michele Pollio. ["_Vacant land: A Resource for Reshaping Urban Neighborhoods_." (PDF)](http://web.mit.edu/spirn/www/newfront/book/pdf/vacant_land.pdf) The West Philadelphia Landscape Plan, 1991.
 
-Spirn, Anne Whiston, and Pollio. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_This Garden Is a Town_." (PDF - 1.63MB)](http://www.annewhistonspirn.com/pdf/spirn-wplp-garden_town) The West Philadelphia Landscape Plan, 1990)
+Spirn, Anne Whiston, and Pollio. ["_This Garden Is a Town_." (PDF - 1.63MB)](http://www.annewhistonspirn.com/pdf/spirn-wplp-garden_town) The West Philadelphia Landscape Plan, 1990)
 
-Spirn, Anne Whiston, and Mark Campbell. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Shaping the Block: Redesinging the Small Urban Neighborhoods_." (PDF - 3.06MB)](http://www.annewhistonspirn.com/pdf/spirn-wplp-shaping_block.pdf) The West Philadelphia Landscape Plan, 1991.
+Spirn, Anne Whiston, and Mark Campbell. ["_Shaping the Block: Redesinging the Small Urban Neighborhoods_." (PDF - 3.06MB)](http://www.annewhistonspirn.com/pdf/spirn-wplp-shaping_block.pdf) The West Philadelphia Landscape Plan, 1991.
 
-Spirn, Anne Whiston, and Daniel Marcucci. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Models of Success: Landscape Improvements and Community Development_." (PDF - 1.56MB)](http://web.mit.edu/spirn/www/newfront/book/pdf/model_success.pdf) The West Philadelphia Landscape Plan, 1991.
+Spirn, Anne Whiston, and Daniel Marcucci. ["_Models of Success: Landscape Improvements and Community Development_." (PDF - 1.56MB)](http://web.mit.edu/spirn/www/newfront/book/pdf/model_success.pdf) The West Philadelphia Landscape Plan, 1991.
 
-Spirn, Anne Whiston, and Robert Cheetham. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_The Digital Database: Atlas and Guide_." (PDF)](http://www.annewhistonspirn.com/pdf/spirn-wplp-database.pdf) The West Philadelphia Landscape Plan, 1996.
+Spirn, Anne Whiston, and Robert Cheetham. ["_The Digital Database: Atlas and Guide_." (PDF)](http://www.annewhistonspirn.com/pdf/spirn-wplp-database.pdf) The West Philadelphia Landscape Plan, 1996.
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262083515) Hester, Randolph T. _Design for Ecological Democracy_. MIT Press, 2006. ISBN: 9780262083515.
 
-McHarg, Ian. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_An Ecological Method for Landscape Architecture_." (PDF - 1.23MB)](https://www.uop.edu.jo/download/research/members/env4.pdf) Landscape Architecture (1967).
+McHarg, Ian. ["_An Ecological Method for Landscape Architecture_." (PDF - 1.23MB)](https://www.uop.edu.jo/download/research/members/env4.pdf) Landscape Architecture (1967).
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262121439) Lynch, Kevin. "Environmental Adaptability (1958)." In _City Sense and City Design: Writings and Projects of Kevin Lynch_. Edited by Banerjee and Southworth. MIT Press, 1990. ISBN: 9780262121439. \[Preview with [Google Books](http://books.google.com/books?id=6LUhsu6Ap1EC&pg=PA379v=onepage)\]
 
@@ -268,9 +268,9 @@ Crouch, Dora. _Water Management in Ancient Greek Cities_. Oxford University Pres
 
 Blake, Nelson Manfred. _Water for the Cities: A History of the Urban Water Supply Problem in the United States_. Syracuse University Press, 1956.
 
-Juneja, Narendra, and Anne Whiston Spirn. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Environmental Resources of the Toronto Central Waterfront_." (PDF- 27.2MB)](http://www.annewhistonspirn.com/pdf/Spirn-Toronto-1976.pdf) Wallace, Mcharg, Roberts and Todd, 1976.
+Juneja, Narendra, and Anne Whiston Spirn. ["_Environmental Resources of the Toronto Central Waterfront_." (PDF- 27.2MB)](http://www.annewhistonspirn.com/pdf/Spirn-Toronto-1976.pdf) Wallace, Mcharg, Roberts and Todd, 1976.
 
-Spirn, Anne Whiston. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Woodlands New Community: Guidelines for Site Planning_." (PDF)](http://www.annewhistonspirn.com/pdf/Spirn-Woodlands-1973.pdf) Wallace, McHarg, Roberts and Todd, 1973.
+Spirn, Anne Whiston. ["_Woodlands New Community: Guidelines for Site Planning_." (PDF)](http://www.annewhistonspirn.com/pdf/Spirn-Woodlands-1973.pdf) Wallace, McHarg, Roberts and Todd, 1973.
 
 Brown, Alan Berger Casey. "A New Systemic Nature for Mussolini's Landscape Urbanism." VIA: _DIRT_ (2009): 27–36.
 
@@ -294,7 +294,7 @@ Landsberg, Helmut. _The Urban Climate_. Academic Press, 1981. ISBN: 978012399463
 
 Givoni, B. _Man, Climate, and Architecture_. Elsevier Science Limited, 1976. ISBN: 9780853346784.
 
-Spirn, Anne Whiston. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Air Quality at Street-Level: Strategies for Urban Design_." (PDF - 3.06MB)](http://www.annewhistonspirn.com/pdf/Air-Quality_1986.pdf) Harvard Graduate School of Design, 1986.
+Spirn, Anne Whiston. ["_Air Quality at Street-Level: Strategies for Urban Design_." (PDF - 3.06MB)](http://www.annewhistonspirn.com/pdf/Air-Quality_1986.pdf) Harvard Graduate School of Design, 1986.
 
 Trefil, James. _A Scientist in the City_. Doubleday and Company, 1994.
 
@@ -402,7 +402,7 @@ Reflections: Lessons for Cities
 
 Kingdon, John W. _Agendas, Alernatives, and Public Policies_. Harpercollins College Div, 1995.
 
-Spirn, Anne Whiston, and Daniel Marcucci. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Models of Success: Landscape Improvements and Community Development_." (PDF - 1.56MB)](http://web.mit.edu/spirn/www/newfront/book/pdf/model_success.pdf) The West Philadelphia Landscape Plan, 1991.
+Spirn, Anne Whiston, and Daniel Marcucci. ["_Models of Success: Landscape Improvements and Community Development_." (PDF - 1.56MB)](http://web.mit.edu/spirn/www/newfront/book/pdf/model_success.pdf) The West Philadelphia Landscape Plan, 1991.
 
 
 {{< tdclose >}}

@@ -78,7 +78,7 @@ Hise, Greg, and William Deverell. _Eden By Design: The 1930 Olmsted-Bartholomew 
 
 Or
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Philadelphia: Philadelphia Water Department. (PDF - 4.49MB) _Long-term Combined Sewer Overflow Program: Program Summary_.](http://www.phillywatersheds.org/doc/GCCW_AmendedJune2011_LOWRES-web.pdf)
+[Philadelphia: Philadelphia Water Department. (PDF - 4.49MB) _Long-term Combined Sewer Overflow Program: Program Summary_.](http://www.phillywatersheds.org/doc/GCCW_AmendedJune2011_LOWRES-web.pdf)
 
 Madden, Sarah. [_Choosing Green Over Gray: Philadelphia's Innovative Stormwater Infrastructure Plan_](http://dspace.mit.edu/handle/1721.1/59750). MIT MCP Thesis, 2010.
 
@@ -162,7 +162,7 @@ Select one of the two sets of readings below.
 
 Arnfield, A. John. "[Two Decades of Urban Climate Research: A Review of Turbulence, Exchanges of Energy and Water, and the Urban Heat Island](http://dx.doi.org/10.1002/joc.859)." _International Journal of Climatology_ 23, no. 1 (2003): 1–26.
 
-Spirn, Anne Whiston. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["_Better Air Quality at Street Level: Strategies for Urban Design_." (PDF - 3.06MB)](http://www.annewhistonspirn.com/pdf/Air-Quality_1986.pdf) 1986.
+Spirn, Anne Whiston. ["_Better Air Quality at Street Level: Strategies for Urban Design_." (PDF - 3.06MB)](http://www.annewhistonspirn.com/pdf/Air-Quality_1986.pdf) 1986.
 
 Or
 
